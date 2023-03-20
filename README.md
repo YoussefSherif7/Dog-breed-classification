@@ -42,7 +42,7 @@ Created a CNN to Classify Dog Breeds (using Transfer Learning)
 ### 7-Algorithm and testing
 Combined everything in an algorithm that performs dog breed classification
 
-## [File Descriptions](#files)
+## File Descriptions<a name="files"></a>
 This repository includes the python notebook where the implementation exists named dog_app.ipynb, and this ReadMe.md file
 
 
