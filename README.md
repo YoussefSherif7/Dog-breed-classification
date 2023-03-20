@@ -21,25 +21,25 @@ If a dog is detected in the image, it will provide an estimate of the dog's bree
 it will provide an estimate of the dog breed that is most resembling. 
 
 The project is divided into 5 sections
-###1-Importing datasets
+### 1-Importing datasets
 Where i loaded in the datasets, studied some of their charecteristics and populate my needed variables.
 
-###2-Detecting humans
+### 2-Detecting humans
 Implemented and tested the accuracy of a human face detector
 
-###3-Detecting dogs
+### 3-Detecting dogs
 Implemented and tested the accuracy of a dog class detector
 
-###4-CNN to Classify Dog Breeds
+### 4-CNN to Classify Dog Breeds
 In this step, I create a CNN that classifies dog breeds from scratch.
 
-###5-Use CNN to Classify Dog Breeds
+### 5-Use CNN to Classify Dog Breeds
 Performed predictions on dog breed from images
 
-###6-Transfer Learning
+### 6-Transfer Learning
 Created a CNN to Classify Dog Breeds (using Transfer Learning)
 
-###7-Algorithm and testing
+### 7-Algorithm and testing
 Combined everything in an algorithm that performs dog breed classification
 
 ## [File Descriptions](#files)
